@@ -1,7 +1,7 @@
 # FlowBoiling_HKUST
 Software suite developed in 2021-2022 for autonomous data acquisition and control in closed-loop flow boiling experiments.  Developed by Dr. Christopher Salmean at the Hong Kong University of Science and Techology.
 
-Closed-loop flow boiling setup consisting of the following controllable hardware, assembled as a flow loop as shown in the figure below. For more information about experimental setup, please see my [published works on flow boiling] (https://scholar.google.com/citations?user=EifbxgwAAAAJ&hl=en).
+Closed-loop flow boiling setup consisting of the following controllable hardware, assembled as a flow loop as shown in the figure below. For more information about experimental setup, please see my [published works on flow boiling](https://scholar.google.com/citations?user=EifbxgwAAAAJ&hl=en).
 
 Pump: HNP Mikrosystems mzr-2921
 Stepper motor controlled by Arduino Uno (generic motor)
