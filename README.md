@@ -21,3 +21,5 @@ A summary of the various modules and their operation is shown below:
 ![Code diagram 1](https://github.com/csalmean/FlowBoiling_HKUST/assets/133036780/22ca0d7f-2b15-46cc-89f6-db9e01f06a78)
   
 Since everything was written for my own experimental setup, it may take some work to get it working on your own hardware. However, I hope the annotation and explanatory diagrams above can help you to modify it as needed. I suggest you start with __main__ and the configuration files, and adjust the hardware as necessary.
+
+**The Calibration_calculator file is specifically designed to work with the output of this control code when operating on calibration mode. Please check my papers to understand the experimental method.**
