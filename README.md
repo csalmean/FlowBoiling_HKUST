@@ -3,11 +3,11 @@ Software suite developed in 2021-2022 for autonomous data acquisition and contro
 
 Closed-loop flow boiling setup consisting of the following controllable hardware, assembled as a flow loop as shown in the figure below. For more information about experimental setup, please see my [published works on flow boiling](https://scholar.google.com/citations?user=EifbxgwAAAAJ&hl=en).
 
-Pump: HNP Mikrosystems mzr-2921
-Stepper motor controlled by Arduino Uno (generic motor)
-DC power supply: Elektro-Automatik PS2000B, can also swap for HP 33120A signal generator and high-frequency amplifier.
-DC-AC full-bridge MOSFET inverter controlled by Arduino Uno (made in-house)
-Data Acquision Unit: Keithley Instruments DAQ6510, can also swap for Agilent 34970A.
+Pump: HNP Mikrosystems mzr-2921<br>
+Stepper motor controlled by Arduino Uno (generic motor)<br>
+DC power supply: Elektro-Automatik PS2000B, can also swap for HP 33120A signal generator and high-frequency amplifier.<br>
+DC-AC full-bridge MOSFET inverter controlled by Arduino Uno (made in-house)<br>
+Data Acquision Unit: Keithley Instruments DAQ6510, can also swap for Agilent 34970A.<br>
 
 Device: fabricated in HKUST's Nanosystem Fabrication Facility. Silicon chips with 5x aluminium heaters in series, wire-bonded to custom PCB in series with shunt resistor.
 
